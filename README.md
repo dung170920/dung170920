@@ -15,7 +15,7 @@
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/CSS-3aabe8.svg?style=for-the-badge&logo=css3&logoColor=3aabe8&labelColor=ffffff" alt="css"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/JAVA-blue.svg?style=for-the-badge&logo=java&logoColor=blue&labelColor=ffffff" alt="java"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/mysql-6566ba.svg?style=for-the-badge&logo=mysql&logoColor=6566ba&labelColor=ffffff" alt="mysql"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
+
 <a href="https://github.com/dung170920">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&labelColor=ffffff&logoColor=%23563D7C" alt="bootstrap">
 </a> 
@@ -27,5 +27,5 @@
 <a href="https://github.com/dung170920">
   <img src="https://img.shields.io/badge/NetBeans-red.svg?style=for-the-badge&logo=apache-netbeans-ide&labelColor=ffffff&logoColor=red" alt="netbeans">
 </a> 
-
+<a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p><br>
