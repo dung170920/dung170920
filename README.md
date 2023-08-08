@@ -20,6 +20,7 @@
   <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=ffffff" alt="dart"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=02569B&labelColor=ffffff" alt="Flutter"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=ffffff" alt=".NET"></a>
+  <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>
   <br/>
   <br/>
   <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=ffffff" alt="Figma"></a>
