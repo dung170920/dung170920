@@ -1,16 +1,19 @@
-<h2> Hi, I'm Dung Nguyen! 👋</h2>
+<h1> Hi, I'm Dung Nguyen! 👋</h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-### Profile
+## Profile
+
 <p> > Studied Software Engineering at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 <p> > Frontend Developer - Mobile Developer</p>
 <img src="https://komarev.com/ghpvc/?username=dung170920" alt="dung170920" />
 
-### Contact
+## Contact
+
 [![](https://img.shields.io/badge/Facebook-NguyenDung-%231877F2)](https://www.facebook.com/profile.php?id=100052504742756)
 [![](https://img.shields.io/badge/Gmail-dungnguyen09172000%40gmail.com-red)](mailto:dungnguyen09172000@gmail.com)
 
-### Technologies
+## Technologies
+
 <p align="center">
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/JavaScript-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=ffffff" alt="javascript"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript"></a>
@@ -30,3 +33,9 @@
   <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="mysql"></a>
   <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=ffffff" alt="trello"></a> -->
 </p><br>
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dung170920&show_icons=true&theme=radical" alt=""/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dung170920&layout=donut-vertical&theme=radical" alt="" />
