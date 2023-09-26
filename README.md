@@ -1,4 +1,4 @@
-<h1> Hi, I'm Dung Nguyen! 👋</h1>
+<h1> Hi, I'm Dung! 👋</h1>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ## Profile
