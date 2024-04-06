@@ -20,9 +20,12 @@
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/HTML-orange.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="html"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/CSS3-3aabe8.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="css3"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=ffffff" alt="ReactJS"></a>
-  <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=ffffff" alt="dart"></a>
+<a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="NextJS"></a>
+<a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=ffffff" alt="dart"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=ffffff" alt="Flutter"></a>
-  <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>
+<a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>
+<!-- <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="php"></a> -->
+<!-- <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a> -->
   <br/>
 <!--   <br/>
   <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma"></a>
