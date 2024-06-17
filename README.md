@@ -21,6 +21,7 @@
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/CSS3-3aabe8.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="css3"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=React&logoColor=ffffff" alt="ReactJS"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="NextJS"></a>
+<!-- <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/electron-47848f.svg?&style=for-the-badge&logo=electron&logoColor=white" alt="electron"></a> -->
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=ffffff" alt="dart"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=ffffff" alt="Flutter"></a>
 <a href="https://github.com/dung170920"><img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node"></a>
