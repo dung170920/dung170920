@@ -4,7 +4,7 @@
 ## Profile
 
 <p> > Studied Software Engineering at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
-<p> > Frontend Developer - Mobile Developer</p>
+<p> > Designer, Frontend/Mobile Developer</p>
 <!-- <img src="https://komarev.com/ghpvc/?username=dung170920" alt="dung170920" /> -->
 
 ## Contact
